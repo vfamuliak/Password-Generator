@@ -1,0 +1,10 @@
+D:\Volodia\projects\VisualStudio proj\Pass_Gen\Pass_Gen\Pass_Gen\bin\Debug\Pass_Gen.exe.config
+D:\Volodia\projects\VisualStudio proj\Pass_Gen\Pass_Gen\Pass_Gen\bin\Debug\Pass_Gen.exe
+D:\Volodia\projects\VisualStudio proj\Pass_Gen\Pass_Gen\Pass_Gen\bin\Debug\Pass_Gen.pdb
+D:\Volodia\projects\VisualStudio proj\Pass_Gen\Pass_Gen\Pass_Gen\obj\Debug\Pass_Gen.csprojAssemblyReference.cache
+D:\Volodia\projects\VisualStudio proj\Pass_Gen\Pass_Gen\Pass_Gen\obj\Debug\Pass_Gen.Form1.resources
+D:\Volodia\projects\VisualStudio proj\Pass_Gen\Pass_Gen\Pass_Gen\obj\Debug\Pass_Gen.Properties.Resources.resources
+D:\Volodia\projects\VisualStudio proj\Pass_Gen\Pass_Gen\Pass_Gen\obj\Debug\Pass_Gen.csproj.GenerateResource.cache
+D:\Volodia\projects\VisualStudio proj\Pass_Gen\Pass_Gen\Pass_Gen\obj\Debug\Pass_Gen.csproj.CoreCompileInputs.cache
+D:\Volodia\projects\VisualStudio proj\Pass_Gen\Pass_Gen\Pass_Gen\obj\Debug\Pass_Gen.exe
+D:\Volodia\projects\VisualStudio proj\Pass_Gen\Pass_Gen\Pass_Gen\obj\Debug\Pass_Gen.pdb
