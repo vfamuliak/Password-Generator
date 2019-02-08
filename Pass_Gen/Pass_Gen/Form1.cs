@@ -21,11 +21,6 @@ namespace Pass_Gen
             InitializeComponent();
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-            
-        }
-
         public void generator(string set, int length)
         {
             Random rnd = new Random();
@@ -69,26 +64,6 @@ namespace Pass_Gen
             textBox3.Text = password;
         }
 
-        private void textBox3_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void checkBox1_CheckedChanged(object sender, EventArgs e)
-        {
-          
-        }
-
-        private void checkBox2_CheckedChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void checkBox3_CheckedChanged(object sender, EventArgs e)
-        {
-            
-        }
-
         private void button3_Click(object sender, EventArgs e)
         {
             if(textBox3.Text == "")
@@ -98,11 +73,6 @@ namespace Pass_Gen
             }
             Clipboard.SetText(textBox3.Text);
             MessageBox.Show("The text is copied to the clipboard!");
-        }
-
-        private void textBox2_TextChanged(object sender, EventArgs e)
-        {
-
         }
 
         private void button2_Click(object sender, EventArgs e)
